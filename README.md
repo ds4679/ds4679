@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sanjay kumar
+👋 Hi, I’m sanjay kumar
   
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/fedce044-03f0-4c4b-ac44-1943950a74c2)
 
@@ -29,12 +29,21 @@ credly.com/users/sanjay4679
 legacy.netacad.com/portal/profile/1044473396
 
 Skills
+
 Languages: Python, C, Java
+
 Web Development: HTML, CSS
+
 Data Science: Pandas, NumPy , ML , AI
+
 Databases: MySQL
+
 Tools: Git
 <!---
 ds4679/ds4679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Connect with Me:
+
+Email: sanjaykr.4679@gmail.com
+
